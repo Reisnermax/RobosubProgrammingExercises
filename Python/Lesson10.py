@@ -11,3 +11,5 @@ print(myArray[1])
 #This seems annoying, but you'll see this makes things easier later
 #Now to finish, print the third element in myArray (which should say "stringyboi")
 
+#Now what if I want to add something to an array? You use ARRAY.append(DATA)
+#Add the number 47 to myArray and print it out

@@ -5,3 +5,4 @@ cycleThisArray = ['hi','this','is','going','to','be','printed',':)','but','not',
 for whatWord in cycleThisArray[0:7]:
         print(whatWord)
 
+#Remeber that arrays are 0 indexed!!!
