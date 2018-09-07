@@ -13,3 +13,5 @@
 #sudo COMMAND -- use a command with all privelges
 #git clone GITHUBURL -- clone a repository (folder) from github
 #python FILE.py -- run a python file (you hopefully made)
+
+#use the arrow keys to run previously run commands and us the TAB key to autocomplete commands
