@@ -12,3 +12,4 @@
 #nano FILE -- basic terminal-based text editor, use ^x (control x), then hit y or n to confirm, and enter to save
 #sudo COMMAND -- use a command with all privelges
 #git clone GITHUBURL -- clone a repository (folder) from github
+#python FILE.py -- run a python file (you hopefully made)
